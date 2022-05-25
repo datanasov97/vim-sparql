@@ -1,2 +1,2 @@
 " SPARQL
-autocmd BufNewFile,BufReadPost *.rq set filetype=sparql
+autocmd BufNewFile,BufReadPost *.ttl set filetype=sparql
